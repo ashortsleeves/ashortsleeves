@@ -1,8 +1,8 @@
-# Hello There! 👋
+### Hello There! I'm Adam 👋
 
 <img align="right" src="https://raw.githubusercontent.com/ashortsleeves/ashortsleeves/master/adam-l.png" alt="Adam Shortsleeves" height=465px/>
 
-My name is Adam Shortsleeves. I am is an experienced PHP Web Developer with a demonstrated history of working in the internet industry. From modern web design, to dynamic websites, to SEO, to robust web applications. I draw on my background as a former school teacher to break down complicated concepts into accessible and understandable solutions.
+I am is an experienced PHP Web Developer with a demonstrated history of working in the internet industry. From modern web design, to dynamic websites, to SEO, to robust web applications. I draw on my background as a former school teacher to break down complicated concepts into accessible and understandable solutions.
 
 I am an owner and co founder of [Craft Iconic, LLC](https://crafticonic.com/), a Web Design and Online Marketing company. We apply industry-leading SEO expertise and modern UX/UI Web Design to craft websites that are pleasing to the eye, intuitive on all devices, and connect businesses with customers.
 
