@@ -7,7 +7,7 @@ I am an owner and co founder of [Craft Iconic, LLC](https://crafticonic.com/), a
 * [LinkedIn](https://www.linkedin.com/in/adam-shortsleeves-00ab61128)
 * [Facebook](https://www.facebook.com/crafticonic)
 
-
+![Adam](https://raw.githubusercontent.com/ashortsleeves/ashortsleeves/master/adam-l.png)
 <!--
 **ashortsleeves/ashortsleeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
