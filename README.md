@@ -1,6 +1,6 @@
-### Hi, I'm Adam 👋
-
 <img align="right" src="https://raw.githubusercontent.com/ashortsleeves/ashortsleeves/master/adam-l.png" alt="Adam Shortsleeves" height=465px/>
+
+### Hi, I'm Adam 👋
 
 I am is an experienced PHP Web Developer with a demonstrated history of working in the internet industry. From modern web design, to dynamic websites, to SEO, to robust web applications. I draw on my background as a former school teacher to break down complicated concepts into accessible and understandable solutions.
 
