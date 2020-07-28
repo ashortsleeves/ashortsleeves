@@ -1,4 +1,4 @@
-### Hello There! I'm Adam 👋
+### Hello There, I'm Adam 👋
 
 <img align="right" src="https://raw.githubusercontent.com/ashortsleeves/ashortsleeves/master/adam-l.png" alt="Adam Shortsleeves" height=465px/>
 
